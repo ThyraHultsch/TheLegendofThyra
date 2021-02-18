@@ -331,7 +331,7 @@ namespace TheLegendOfThyra {
     walls.addChild(new GameObject("WallBottom", new fc.Vector2(0, -13), new fc.Vector2(40, 1), "DarkGreen"));
 
   }
-
+  
   function createEnemy(): fc.Node {
 
     let enemies: fc.Node = new fc.Node("Enemies");
