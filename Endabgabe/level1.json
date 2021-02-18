@@ -1,0 +1,73 @@
+[
+  {
+    "type": 0,
+    "positionX": 10,
+    "positionY": -5,
+    "sizeX": 5,
+    "sizeY": 7
+  },
+
+  {
+    "type": 0,
+    "positionX": 1,
+    "positionY": -9,
+    "sizeX": 5,
+    "sizeY": 7
+  },
+
+  {
+    "type": 1,
+    "positionX": 2,
+    "positionY": 5,
+    "sizeX": 2,
+    "sizeY": 2
+  },
+
+  {
+    "type": 2,
+    "positionX": -10,
+    "positionY": -11,
+    "sizeX": 3,
+    "sizeY": 2
+  },
+
+  {
+    "type": 3,
+    "positionX": -15,
+    "positionY": -3,
+    "sizeX": 3,
+    "sizeY": 2
+  },
+  {
+    "type": 3,
+    "positionX": -18,
+    "positionY":5,
+    "sizeX": 2,
+    "sizeY": 1
+  },
+  {
+    "type": 3,
+    "positionX": -5,
+    "positionY": 0,
+    "sizeX": 1.5,
+    "sizeY": 1
+  },
+
+  {
+    "type": 4,
+    "positionX": 15,
+    "positionY": 8,
+    "sizeX": 3,
+    "sizeY": 2
+  },
+
+  {
+    "type": 5,
+    "positionX": -5,
+    "positionY": 8,
+    "sizeX": 3,
+    "sizeY": 2
+  }
+
+
+]

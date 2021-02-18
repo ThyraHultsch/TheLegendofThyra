@@ -1,0 +1,60 @@
+[
+  {
+    "type": 0,
+    "positionX": -11,
+    "positionY": -3,
+    "sizeX": 5,
+    "sizeY": 7
+  },
+  {
+    "type": 0,
+    "positionX": -13,
+    "positionY": -1,
+    "sizeX": 5,
+    "sizeY": 7
+  },
+  {
+    "type": 5,
+    "positionX": 3,
+    "positionY": 5,
+    "sizeX": 2,
+    "sizeY": 2
+  },
+  {
+    "type": 1,
+    "positionX": -17,
+    "positionY": 7,
+    "sizeX": 4,
+    "sizeY": 2
+  },
+  {
+    "type": 2,
+    "positionX": 17,
+    "positionY": 8,
+    "sizeX": 4,
+    "sizeY": 2
+  },
+  {
+    "type": 0,
+    "positionX": 16,
+    "positionY": -8,
+    "sizeX": 5,
+    "sizeY": 8
+  },
+  {
+    "type": 0,
+    "positionX": -10,
+    "positionY": 0,
+    "sizeX": 5,
+    "sizeY": 7
+  },
+  {
+    "type": 4,
+    "positionX": 0,
+    "positionY": -5,
+    "sizeX": 5,
+    "sizeY": 3
+  }
+
+
+]
