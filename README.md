@@ -1,6 +1,6 @@
 # TheLegendofThyra
 
-Für ein optimale Nutzererlebnis empfehle ich die Browseranwendung Google Chrome. 
+Für ein optimale Nutzererlebnis empfehle ich die Browseranwendung Google Chrome :) 
 
 
 Github Pages: https://thyrahultsch.github.io/TheLegendofThyra/Code/Endabgabe/Startbildschirm.html <br/>
