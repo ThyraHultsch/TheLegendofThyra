@@ -7,3 +7,5 @@ Github Pages: https://thyrahultsch.github.io/TheLegendofThyra/Code/Endabgabe/Sta
 Designkonzept: https://thyrahultsch.github.io/TheLegendofThyra/Designkonzept_Thyra_Hultsch.pdf <br/>
 Quellcode: https://github.com/ThyraHultsch/TheLegendofThyra/tree/main/Code <br/>
 ZIP-Ordner: https://github.com/ThyraHultsch/TheLegendofThyra/blob/main/TheLegendOfThyraZIP.zip <br/>
+
+Anleitung: Bei mir hat immer alles super mit einem Live-Server funktioniert :) Es muss nichts extra beachtet werden, da ich nicht mit einem Heroku Server oder einer Datenbank arbeite. 
