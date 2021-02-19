@@ -1,7 +1,7 @@
 namespace TheLegendOfThyra {
 
 
-  import fc = FudgeCore;
+  import fc = FudgeCore; 
 
   const speed: number = 15;
 
