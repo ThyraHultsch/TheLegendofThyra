@@ -4,7 +4,7 @@ Für ein optimales Nutzererlebnis empfehle ich die Browseranwendung Google Chrom
 
 
 Github Pages: https://thyrahultsch.github.io/TheLegendofThyra/Code/Endabgabe/Startbildschirm.html <br/>
-Designkonzept: https://thyrahultsch.github.io/TheLegendofThyra/Designkonzept_Thyra_Hultsch.pdf <br/>
+Designkonzept: https://github.com/ThyraHultsch/TheLegendofThyra/blob/main/Designkonzept_Thyra_Hultsch_263162.pdf <br/>
 Quellcode: https://github.com/ThyraHultsch/TheLegendofThyra/tree/main/Code <br/>
 ZIP-Ordner: https://github.com/ThyraHultsch/TheLegendofThyra/blob/main/TheLegendOfThyraZIP.zip <br/>
 
